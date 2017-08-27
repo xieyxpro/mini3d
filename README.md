@@ -18,12 +18,15 @@
 - mingw: gcc -O3 mini3d.c -o mini3d.exe -lgdi32
 - msvc: cl -O2 -nologo mini3d.c
 
-##演示
+## 演示
 纹理填充：RENDER_STATE_TEXTURE 
+![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B7.PNG)
 
 色彩填充：RENDER_STATE_COLOR 
+![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B71.PNG)
 
 线框绘制：RENDER_STATE_WIREFRAME 
+![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B72.PNG)
 
 ##TODO
 - 增加背面剔除

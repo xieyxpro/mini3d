@@ -35,7 +35,7 @@
 
 ## 演示
 纹理填充：RENDER_STATE_TEXTURE 
-![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B7.PNG)
+![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B74.PNG)
 
 色彩填充：RENDER_STATE_COLOR 
 ![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B71.PNG)
@@ -44,4 +44,4 @@
 ![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B72.PNG)
 
 背面剔除：
-![image]()
+![image](https://github.com/xieyxpro/mini3d/blob/master/image/%E6%8D%95%E8%8E%B73.PNG)
